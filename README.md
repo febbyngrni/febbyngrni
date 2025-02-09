@@ -20,6 +20,8 @@ Check out my portfolio: [**My Portfolio**](https://github.com/febbyngrni/data-po
 
 </br>
 
+![febbyngrni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=febbyngrni&theme=dracula&hide_border=true)
+
 <!--
 **febbyngrni/febbyngrni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
