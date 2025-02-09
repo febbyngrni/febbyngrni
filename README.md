@@ -12,26 +12,11 @@
 
 <br>
 
-I'm a Data Analyst with a background in Biostatistics. I analyze data, build machine learning models, and create visualizations to extract meaningful insights.
+I'm a Data Analyst with a background in Biostatistics. Right now, I'm expanding my skills by joining a Data Science Bootcamp, learning more about data analytics, visualization, and machine learning. I also work on personal data projects, exploring different datasets and building dashboards to find useful insights.
 
-Currently, I'm improving my skills through the data science bootcamp, working on projects in machine learning, business analytics, data visualization, etc. I use SQL, Python, and BI tools like Tableau & PowerBI to process and interpret data.
+In my free time, I enjoy creating illustrations as a way to balance analysis with creativity 🎨
 
-🚀 Still learning, always curious, and excited about new data challenges!
-
-### Analytics Tools
-* **Data Collection and Storage:** MySQL and PostgreSQL, Spreadsheet .
-
-* **Data Processing and Analytics:** Jupyter Notebook, Pandas, Numpy.
-
-* **Development:** Python and Git.
-
-* **BI Tools:** PowerBI, Tableau, Looker Studio.
-
-* **Data Visualization:** Matplotlib and Seaborn.
-
-* **Machine Learning Modeling:** Classification, Regression, Clustering.
-
-* **Machine Learning Deployment:** FastAPI and Docker.
+Check out my portfolio: [**My Portfolio**](https://github.com/febbyngrni/data-portfolio)
 
 </br>
 
